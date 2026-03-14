@@ -1,0 +1,37 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Cache files
+cache/
+tmp/
+
+# Upload files
+uploads/
+files/
+
+# Environment / Config
+.env
+config/local.php
+
+# Composer
+/vendor/
+
+# Node modules (if using npm)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.sql
