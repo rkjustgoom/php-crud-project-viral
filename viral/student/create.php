@@ -1,77 +1,78 @@
 <!DOCTYPE html>
 <html>
 
+
 <head>
     <title>Add Student</title>
 
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            background-color: #80f7d9;
-        }
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        background-color: #80f7d9;
+    }
 
-        header {
-            background-color: #10715b;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
+    header {
+        background-color: #10715b;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
 
-        form {
-            width: 400px;
-            margin: 40px auto;
-        }
+    form {
+        width: 400px;
+        margin: 40px auto;
+    }
 
-        fieldset {
-            border: 2px solid #10715b;
-            border-radius: 10px;
-            padding: 20px;
-            background-color: white;
-        }
+    fieldset {
+        border: 2px solid #10715b;
+        border-radius: 10px;
+        padding: 20px;
+        background-color: white;
+    }
 
-        legend {
-            font-size: 18px;
-            font-weight: bold;
-            color: #10715b;
-            padding: 0 10px;
-        }
+    legend {
+        font-size: 18px;
+        font-weight: bold;
+        color: #10715b;
+        padding: 0 10px;
+    }
 
-        label {
-            display: block;
-            margin-top: 10px;
-            font-weight: bold;
-        }
+    label {
+        display: block;
+        margin-top: 10px;
+        font-weight: bold;
+    }
 
-        input,
-        select {
-            width: 100%;
-            padding: 8px;
-            margin-top: 5px;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-        }
+    input,
+    select {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
 
-        input[type="submit"] {
-            background-color: #10715b;
-            color: white;
-            border: none;
-            margin-top: 15px;
-            cursor: pointer;
-            font-weight: bold;
-        }
+    input[type="submit"] {
+        background-color: #10715b;
+        color: white;
+        border: none;
+        margin-top: 15px;
+        cursor: pointer;
+        font-weight: bold;
+    }
 
-        input[type="submit"]:hover {
-            background-color: #0c5545;
-        }
+    input[type="submit"]:hover {
+        background-color: #0c5545;
+    }
 
-        footer {
-            background-color: #178972;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            margin-top: 40px;
-        }
+    footer {
+        background-color: #178972;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        margin-top: 40px;
+    }
     </style>
 
 </head>
